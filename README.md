@@ -1,7 +1,9 @@
 # plugin-feedback
 #Plugin WordPress de Feedback
 ```
-Ce plugin ajoute des fonctionnalités de feedback aux pages et aux articles de votre site WordPress en ajoutant un formulaire de contact avec les champs note, remarque et post ID. Les utilisateurs peuvent intégrer le shortcode dans les pages et les articles pour afficher le formulaire de feedback.
+Ce plugin ajoute des fonctionnalités de feedback aux pages et aux articles de votre site WordPress
+en ajoutant un formulaire de contact avec les champs note, remarque et post ID. Les utilisateurs peuvent
+intégrer le shortcode dans les pages et les articles pour afficher le formulaire de feedback.
 ```
 
 
